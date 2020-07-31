@@ -50,9 +50,9 @@ License
 This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License].
 
 
-[.NET Framework 3.5 SP1]:http://www.microsoft.com/downloads/details.aspx?FamilyID=ab99342f-5d1a-413d-8319-81da479ab0d7
-[XNA Framework Redistributable 3.1]:http://www.microsoft.com/downloads/details.aspx?FamilyID=53867a2a-e249-4560-8011-98eb3e799ef2
-[Windows Installer 3.1]:http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=889482fc-5f56-4a38-b838-de776fd4138c
+[.NET Framework 3.5 SP1]: http://www.microsoft.com/downloads/details.aspx?FamilyID=ab99342f-5d1a-413d-8319-81da479ab0d7
+[XNA Framework Redistributable 3.1]: http://www.microsoft.com/downloads/details.aspx?FamilyID=53867a2a-e249-4560-8011-98eb3e799ef2
+[Windows Installer 3.1]: http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=889482fc-5f56-4a38-b838-de776fd4138c
 
 [Creator Club’s GameState Management sample]: http://creators.xna.com/en-US/samples/gamestatemanagement
 [XNA Stater Kit: Platformer]: http://msdn.microsoft.com/en-us/library/dd254918.aspx
