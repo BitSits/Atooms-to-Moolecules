@@ -47,9 +47,9 @@ Screenshots
 
 Download Setup
 ---
-[Atooms to Moolecules 2.0.zip][zip2] (7.82 MB Setup)
+[Atooms to Moolecules (Setup).zip][setup] (7.82 MB)
 
-[Atooms to Moolecules.zip][zip] (9.06 MB Setup) 
+[Atooms to Moolecules.zip][zip] (9.06 MB) 
 
 
 Instructions
@@ -106,7 +106,7 @@ This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-N
 [Maya Agarwal]: https://mayaagarwal.blogspot.com
 
 [zip]: https://github.com/Bitsits/Atooms-to-Moolecules/raw/master/Atooms%20to%20Moolecules.zip
-[zip2]: https://github.com/Bitsits/Atooms-to-Moolecules/raw/master/Atooms%20to%20Moolecules%20(Setup).zip
+[setup]: https://github.com/Bitsits/Atooms-to-Moolecules/raw/master/Atooms%20to%20Moolecules%20(Setup).zip
 
 [Blogger](https://bitsits.blogspot.com/2011/02/atooms-to-moolecule.html)
 [Tumblr](https://bitsits.tumblr.com/post/96208273420/atooms-to-moolecules-atooms-to-moolecules-is-a)
