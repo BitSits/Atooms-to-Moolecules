@@ -1,3 +1,39 @@
+Atooms to Moolecules: Trailer
+===
+Here is the trailer of the secret game I and [Maya][Maya Agarwal] was working on for about 11 weeks now. This was my [IGF] [submission] this year. 
+
+[![](https://github.com/Bitsits/Atooms-to-Moolecules-video/raw/master/dypmpdIuuGgOlfM4qH.gif)][video]
+
+[via GIPHY](https://giphy.com/gifs/dypmpdIuuGgOlfM4qH)
+
+[YouTube][video]
+
+[video]: https://youtu.be/F1EuZnheoMQ
+
+The levels in the game takes place in different parts of lab. I am kinda still working on the levels and stuffs. The game is more advanced version of my previous game [Moolecule] (small prototype). 
+
+The game have a "LAB Setup" where you can build your own lab sets and play around. Where you can use the equipments, add atooms and have lots of fun. This section was basically build to check the behavior of the lab equipments. 
+
+Here are some screen shot 
+
+![](https://raw.githubusercontent.com/Bitsits/Atooms-to-Moolecules/master/Blog/Atooms%20to%20Moolecules1.PNG)
+![](https://raw.githubusercontent.com/Bitsits/Atooms-to-Moolecules/master/Blog/Atooms%20to%20Moolecules2.png)
+
+and more ..
+
+![](https://raw.githubusercontent.com/Bitsits/Atooms-to-Moolecules/master/Blog/Atooms%20to%20Moolecules3.png)
+![](https://raw.githubusercontent.com/Bitsits/Atooms-to-Moolecules/master/Blog/Atooms%20to%20Moolecules4.png)
+
+Hope you enjoy the trailer.
+
+[Moolecule]: https://bitsits.blogspot.com/2010/07/moolecule.html
+[IGF]: http://www.igf.com/
+[submission]: http://www.igf.com/php-bin/entry2011.php?id=260
+
+[Blogger](https://bitsits.blogspot.com/2010/10/atooms-to-moolecule-trailer.html)
+[Tumblr](https://bitsits.tumblr.com)
+
+
 Atooms to Moolecules
 ===
 Atooms to Moolecules is a chemistry based puzzle game. Explore the lab to see how Atooms changes into Moolecules.
@@ -5,13 +41,15 @@ Atooms to Moolecules is a chemistry based puzzle game. Explore the lab to see ho
 Screenshots
 ---
 ![](https://raw.githubusercontent.com/Bitsits/Atooms-to-Moolecules/master/Blog/Atooms%20to%20Moolecules1.PNG)
-![](https://raw.githubusercontent.com/Bitsits/Atooms-to-Moolecules/master/Blog/Atooms%20to%20Moolecules2.png)
-![](https://raw.githubusercontent.com/Bitsits/Atooms-to-Moolecules/master/Blog/Atooms%20to%20Moolecules3.png)
-![](https://raw.githubusercontent.com/Bitsits/Atooms-to-Moolecules/master/Blog/Atooms%20to%20Moolecules4.png)
+
+[Trailer and Screenshots](https://bitsits.blogspot.com/2010/10/atooms-to-moolecule-trailer.html)  
+[NEW Trailer](https://bitsits.blogspot.com/2011/02/atooms-to-moolecule-new-trailer.html)
 
 Download Setup
 ---
-[Atooms to Moolecules 2.0.zip][zip] (7.82 MB Setup)
+[Atooms to Moolecules 2.0.zip][zip2] (7.82 MB Setup)
+
+[Atooms to Moolecules.zip][zip] (9.06 MB Setup) 
 
 
 Instructions
@@ -67,7 +105,8 @@ This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-N
 [Shubhajit Saha]: https://suvozit.blogspot.com
 [Maya Agarwal]: https://mayaagarwal.blogspot.com
 
-[zip]: https://github.com/Bitsits/Atooms-to-Moolecules/raw/master/Atooms%20to%20Moolecules%20(Setup).zip
+[zip]: https://github.com/Bitsits/Atooms-to-Moolecules/raw/master/Atooms%20to%20Moolecules.zip
+[zip2]: https://github.com/Bitsits/Atooms-to-Moolecules/raw/master/Atooms%20to%20Moolecules%20(Setup).zip
 
-[Blogger](http://bitsits.blogspot.com/2011/02/atooms-to-moolecule.html)
+[Blogger](https://bitsits.blogspot.com/2011/02/atooms-to-moolecule.html)
 [Tumblr](https://bitsits.tumblr.com/post/96200793650/atooms-to-moolecules-trailer-here-is-the-trailer)
