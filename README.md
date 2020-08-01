@@ -31,6 +31,9 @@ Hope you enjoy the trailer.
 [IGF]: http://www.igf.com/
 [submission]: http://www.igf.com/php-bin/entry2011.php?id=260
 
+[Blogger](https://bitsits.blogspot.com/2010/10/atooms-to-moolecule-trailer.html)
+[Tumblr](https://bitsits.tumblr.com/post/96200793650/atooms-to-moolecules-trailer-here-is-the-trailer)
+[Screenshots](https://bitsits.tumblr.com/post/96201771160/here-are-some-screen-shot-of-the-game)
 
 Atooms to Moolecules
 ===
@@ -106,6 +109,5 @@ This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-N
 [zip]: https://github.com/Bitsits/Atooms-to-Moolecules/raw/master/Atooms%20to%20Moolecules.zip
 [zip2]: https://github.com/Bitsits/Atooms-to-Moolecules/raw/master/Atooms%20to%20Moolecules%20(Setup).zip
 
-[Blogger](https://bitsits.blogspot.com/2010/10/atooms-to-moolecule-trailer.html)
-[Tumblr](https://bitsits.tumblr.com/post/96200793650/atooms-to-moolecules-trailer-here-is-the-trailer)
-[Screenshots](https://bitsits.tumblr.com/post/96201771160/here-are-some-screen-shot-of-the-game)
+[Blogger](https://bitsits.blogspot.com/2011/02/atooms-to-moolecule.html)
+[Tumblr](https://bitsits.tumblr.com/post/96208273420/atooms-to-moolecules-atooms-to-moolecules-is-a)
