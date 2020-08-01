@@ -1,6 +1,6 @@
 Atooms to Moolecules: Trailer
 ===
-Here is the trailer of the secret game I and [Maya][Maya Agarwal] was working on for about 11 weeks now. This was my [IGF] [submission] this year. 
+Here is the trailer of the secret game I and [Maya][Maya Agarwal] was working on for about 11 weeks now. This was my [IGF] submission this year. 
 
 [![](https://github.com/Bitsits/Atooms-to-Moolecules-video/raw/master/dypmpdIuuGgOlfM4qH.gif)][video]
 
@@ -29,7 +29,6 @@ Hope you enjoy the trailer.
 
 [Moolecule]: https://bitsits.blogspot.com/2010/07/moolecule.html
 [IGF]: http://www.igf.com/
-[submission]: http://www.igf.com/php-bin/entry2011.php?id=260
 
 [Blogger](https://bitsits.blogspot.com/2010/10/atooms-to-moolecule-trailer.html)
 [Tumblr](https://bitsits.tumblr.com/post/96200793650/atooms-to-moolecules-trailer-here-is-the-trailer)
