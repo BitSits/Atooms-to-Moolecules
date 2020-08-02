@@ -100,8 +100,8 @@ This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-N
 [Shubhajit Saha]: https://suvozit.blogspot.com
 [Maya Agarwal]: https://mayaagarwal.blogspot.com
 
-[zip]: https://github.com/Bitsits/Atooms-to-Moolecules/raw/master/Atooms%20to%20Moolecules.zip
-[setup]: https://github.com/Bitsits/Atooms-to-Moolecules/raw/master/Atooms%20to%20Moolecules%20(Setup).zip
+[zip]: https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Atooms%20to%20Moolecules.zip
+[setup]: https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Atooms%20to%20Moolecules%20(Setup).zip
 
 [Blogger](https://bitsits.blogspot.com/2011/02/atooms-to-moolecule.html)
 [Tumblr](https://bitsits.tumblr.com/post/96208273420/atooms-to-moolecules-atooms-to-moolecules-is-a)
