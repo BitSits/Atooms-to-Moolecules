@@ -17,13 +17,13 @@ The game have a "LAB Setup" where you can build your own lab sets and play aroun
 
 Here are some screen shot 
 
-![](https://raw.githubusercontent.com/Bitsits/Atooms-to-Moolecules/master/Blog/Atooms%20to%20Moolecules1.PNG)
-![](https://raw.githubusercontent.com/Bitsits/Atooms-to-Moolecules/master/Blog/Atooms%20to%20Moolecules2.png)
+![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Blog/Atooms%20to%20Moolecules1.PNG)
+![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Blog/Atooms%20to%20Moolecules2.png)
 
 and more ..
 
-![](https://raw.githubusercontent.com/Bitsits/Atooms-to-Moolecules/master/Blog/Atooms%20to%20Moolecules3.png)
-![](https://raw.githubusercontent.com/Bitsits/Atooms-to-Moolecules/master/Blog/Atooms%20to%20Moolecules4.png)
+![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Blog/Atooms%20to%20Moolecules3.png)
+![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Blog/Atooms%20to%20Moolecules4.png)
 
 Hope you enjoy the trailer.
 
@@ -40,7 +40,7 @@ Atooms to Moolecules is a chemistry based puzzle game. Explore the lab to see ho
 
 Screenshots
 ---
-![](https://raw.githubusercontent.com/Bitsits/Atooms-to-Moolecules/master/Blog/Atooms%20to%20Moolecules1.PNG)
+![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Blog/Atooms%20to%20Moolecules1.PNG)
 
 [Trailer and Screenshots](https://bitsits.blogspot.com/2010/10/atooms-to-moolecule-trailer.html)  
 [NEW Trailer](https://bitsits.blogspot.com/2011/02/atooms-to-moolecule-new-trailer.html)
@@ -83,7 +83,7 @@ Credits
 
 License
 ---
-![](https://raw.githubusercontent.com/Bitsits/Atooms-to-Moolecules/master/Blog/cc.png)
+![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Blog/cc.png)
 
 This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License].
 
