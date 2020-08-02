@@ -51,20 +51,17 @@ Download Setup
 
 [Atooms to Moolecules.zip][zip] (9.06 MB) 
 
-
 Instructions
 ---
-Drag and drop using LEFT mouse button to connect the atomic creatures and RIGHT mouse button to detach it from the molecule. Make bigger and bigger molecule.
+Drag and drop using <kbd>LEFT</kbd> mouse button to connect the atomic creatures and <kbd>RIGHT</kbd> mouse button to detach it from the molecule. Make bigger and bigger molecule.
 
-RIGHT click on any atom will break all its bonds.
+<kbd>RIGHT</kbd> click on any atom will break all its bonds.
 
-Esc to pause the game.
-
+<kbd>Esc</kbd> to pause the game.
 
 Troubleshooting
 ---
 If you have problems getting the game to run. You should install [.NET Framework 3.5 SP1] and [XNA Framework Redistributable 3.1].
-
 
 Credits
 ---
@@ -80,13 +77,11 @@ Credits
 
 - Code Samples: [Creator Club’s GameState Management sample] and [XNA Stater Kit: Platformer] both under [Microsoft Permissive License.rtf].
 
-
 License
 ---
 ![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Blog/cc.png)
 
 This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License].
-
 
 [.NET Framework 3.5 SP1]: http://www.microsoft.com/downloads/details.aspx?FamilyID=ab99342f-5d1a-413d-8319-81da479ab0d7
 [XNA Framework Redistributable 3.1]: http://www.microsoft.com/downloads/details.aspx?FamilyID=53867a2a-e249-4560-8011-98eb3e799ef2
